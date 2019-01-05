@@ -48,7 +48,7 @@ blockquote:before {
 }
 
 #navigation {
-  padding: 30px;
+  padding: 15px;
   background-color: #f5f5f5;
 }
 @media screen and (max-width: 400px) {
@@ -78,19 +78,21 @@ blockquote:before {
     float: default;
     width: 100%;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 10px;
     display: none;
   }
 }
 #navigation .menu li {
   display: inline;
-  padding: 20px;
-  font-size: 20px;
+  margin-left: 10px;
+  font-size: 18px;
 }
 @media screen and (max-width: 1000px) {
   #navigation .menu li {
     display: block;
     text-align: center;
+    border-bottom: 1px solid black;
+    padding: 15px;
   }
 }
 #navigation .menu li:hover {
