@@ -43,11 +43,15 @@
                 text-align: center;
                 border-bottom: 1px solid black;
                 padding: 15px;
-            }   
-        }
-
-        li:hover {
-            background-color: #eaeaea;
+            }
+            
+            a{
+                color: #3b3b3b;
+                text-decoration: none;
+            }
+            a:hover {
+                color: #eaeaea;
+            }
         }
     }
 }
