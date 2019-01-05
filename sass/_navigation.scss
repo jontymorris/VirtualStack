@@ -1,0 +1,51 @@
+#navigation {
+    padding: 30px;
+    background-color: $white;
+
+    @media screen and (max-width: 400px) {
+        .logo {
+            width: 60%;
+        }
+        .menu-toggle {
+            width: 20%;
+        }
+    }
+
+    .menu-toggle {
+        float: right;
+        display: none;
+        cursor: pointer;
+
+        @media screen and (max-width: $breakpoint-large) {
+            display: inline;
+        }
+    }
+
+    .menu {
+        display: block;
+        float: right;
+
+        @media screen and (max-width: $breakpoint-large) {
+            float: default;
+            width: 100%;
+            text-align: center;
+            margin-top: 40px;
+            display: none;
+        }
+
+        li {
+            display: inline;
+            padding: 20px;
+            font-size: 20px;
+
+            @media screen and (max-width: $breakpoint-large) {
+                display: block;
+                text-align: center;
+            }
+        }
+
+        li:hover {
+            background-color: #eaeaea;
+        }
+    }
+}

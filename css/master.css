@@ -1,0 +1,186 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  color: #3b3b3b;
+}
+
+h3 {
+  margin-top: 0px;
+}
+
+.container {
+  width: 70%;
+  max-width: 1500px;
+  margin: auto;
+}
+@media screen and (max-width: 1000px) {
+  .container {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 700px) {
+  .container {
+    width: 90%;
+  }
+}
+
+blockquote {
+  background: #f9f9f9;
+  padding: 0.5em 10px;
+  margin: 0px;
+  quotes: "“" "”" "‘" "’";
+}
+
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.01em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+#navigation {
+  padding: 30px;
+  background-color: #f5f5f5;
+}
+@media screen and (max-width: 400px) {
+  #navigation .logo {
+    width: 60%;
+  }
+  #navigation .menu-toggle {
+    width: 20%;
+  }
+}
+#navigation .menu-toggle {
+  float: right;
+  display: none;
+  cursor: pointer;
+}
+@media screen and (max-width: 1000px) {
+  #navigation .menu-toggle {
+    display: inline;
+  }
+}
+#navigation .menu {
+  display: block;
+  float: right;
+}
+@media screen and (max-width: 1000px) {
+  #navigation .menu {
+    float: default;
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+    display: none;
+  }
+}
+#navigation .menu li {
+  display: inline;
+  padding: 20px;
+  font-size: 20px;
+}
+@media screen and (max-width: 1000px) {
+  #navigation .menu li {
+    display: block;
+    text-align: center;
+  }
+}
+#navigation .menu li:hover {
+  background-color: #eaeaea;
+}
+
+header {
+  background-image: url(../images/header2.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow-x: hidden;
+  padding: 100px;
+}
+header #header-lead {
+  line-height: 1em;
+  height: 2em;
+  position: relative;
+  padding: 20px 20px;
+  margin-bottom: 10px;
+  font-size: 50px;
+  width: 50%;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+header #header-sub {
+  line-height: 1em;
+  height: 3em;
+  padding: 20px;
+  font-size: 20px;
+  position: relative;
+  width: 50%;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+@media screen and (max-width: 1000px) {
+  header #header-lead, header #header-sub {
+    width: 70%;
+  }
+}
+@media screen and (max-width: 700px) {
+  header {
+    padding: 80px 30px 80px;
+  }
+  header #header-lead {
+    width: 80%;
+    margin: auto;
+    font-size: 8vw;
+  }
+  header #header-sub {
+    display: none;
+  }
+}
+
+.content {
+  margin-top: 70px;
+  margin-bottom: 70px;
+  font-size: 22px;
+}
+.content .small-text {
+  font-size: 20px;
+}
+
+.grid {
+  display: grid;
+}
+
+.one-one {
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 50px;
+}
+@media screen and (max-width: 1000px) {
+  .one-one {
+    grid-template-columns: 1fr;
+    grid-row-gap: 70px;
+    grid-column-gap: 0px;
+  }
+}
+
+.two-one {
+  grid-template-columns: 5fr 4fr;
+  grid-column-gap: 50px;
+}
+@media screen and (max-width: 1000px) {
+  .two-one {
+    grid-template-columns: 1fr;
+    grid-row-gap: 70px;
+    grid-column-gap: 0px;
+  }
+}
+
+footer {
+  background-color: #f5f5f5;
+  padding: 20px 0 20px 0;
+}
+
+/*# sourceMappingURL=master.css.map */

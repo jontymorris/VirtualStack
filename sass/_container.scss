@@ -1,0 +1,13 @@
+.container {
+    width: 70%;
+    max-width: 1500px;
+    margin: auto;
+
+    @media screen and (max-width: $breakpoint-large) {
+        width: 80%;
+    }
+
+    @media screen and (max-width: $breakpoint-small) {
+        width: 90%;
+    }
+}
