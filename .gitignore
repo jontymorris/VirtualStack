@@ -1,5 +1,7 @@
 /.sass-cache
 .sass-cache
+/.vscode
+.vscode
 /css
 *.css
 *.map
