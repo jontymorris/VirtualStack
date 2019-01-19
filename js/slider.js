@@ -7,6 +7,10 @@ var slides = [
     {
         'lead': 'Mobile apps',
         'sub': 'Mobile solutions help give your business an edge over the competition.'
+    },
+    {
+        'lead': 'CMS integration',
+        'sub': 'Use the CMS that you\'re comfortable with (Wordpress, Sporty, Drupal).'
     }
 ];
 
@@ -29,9 +33,10 @@ function nextSlide() {
         sub.animate({ 'left': '0px' }, 800);
     })
 
-    setTimeout(nextSlide, 4000 + 1600);
+    setTimeout(nextSlide, 5000 + 1600);
 }
 
+// start the slider
 $(document).ready(function() {
     setTimeout(nextSlide, 4000);
 });
