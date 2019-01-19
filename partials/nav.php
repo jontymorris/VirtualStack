@@ -5,10 +5,13 @@
         <img src="images/menu.png" width="60px" class="menu-toggle">
 
         <ul class="menu">
-            <a href="">
+            <a href="./">
                 <li>Home</li>
             </a>
-            <a href="">
+            <a href="./portfolio.php">
+                <li>Portfolio</li>
+            </a>
+            <a href="./">
                 <li>Example</li>
             </a>
         </ul>

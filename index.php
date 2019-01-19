@@ -37,10 +37,10 @@
 
         <div class="container content">
             <blockquote>
-                These boys really helped me out. They answered all of my questions, even the ones I didn't know I needed to ask. The whole procedure was simple and faster. I highly recommend!
+                The VirtualStack team made the daunting task of getting a website seem quick and easy. Jonty answered all of my questions and even brought up topics I hadn't thought about. Would highly recommend!
             </blockquote>
             <span class="small-text right">
-                Someone, Company    
+                Glenn Morris, Backridge Butcher
             </span>
         </div>
         
