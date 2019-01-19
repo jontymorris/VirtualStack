@@ -1,7 +1,7 @@
 <footer>
     <div class="container content grid one-one">
         <div>
-            Want to get in touch? Send us an email at <a href="mailto:example@virtualstack.co.nz">example@virtualstack.co.nz</a> or phone <a href="tel:123456789">123 456 789</a>
+            Want to get in touch? Send us an email at <a href="mailto:contact@virtualstack.co.nz">contact@virtualstack.co.nz</a> or phone <a href="tel:02040795238">020 407 952 38</a>
         </div>
         <div class="right">
             <section>

@@ -1,7 +1,9 @@
  <div id="navigation">
     <div class="container">
-        
-        <img src="images/logo-named.svg" width="200px" class="logo">
+        <a href="./">
+            <img src="images/logo-named.svg" width="200px" class="logo">
+        </a>
+
         <img src="images/menu.png" width="60px" class="menu-toggle">
 
         <ul class="menu">
@@ -12,7 +14,7 @@
                 <li>Portfolio</li>
             </a>
             <a href="./">
-                <li>Example</li>
+                <li>Our team</li>
             </a>
         </ul>
     </div>

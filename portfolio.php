@@ -4,7 +4,7 @@
 <html>
     <head>
         <title>
-            <?php echo $TITLE; ?> - portfolio
+            <?php echo $TITLE; ?> - previous work
         </title>
 
         <?php include('partials/head.php'); ?>
