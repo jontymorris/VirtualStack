@@ -1,0 +1,52 @@
+<?php include_once('global.php'); ?>
+
+<!doctype html>
+<html>
+    <head>
+        <title>
+            <?php echo $TITLE; ?> - web design and development
+        </title>
+
+        <?php include('partials/head.php'); ?>
+    </head>
+    <body>
+        <?php include('partials/nav.php'); ?>
+        <?php include('partials/header.php'); ?>
+
+        <!-- Content -->
+        <div class="container content">
+            We're a small team of talented people who are passionate about what we do. VirtualStack's goal is to make technology easy and accessible to local businesses throughout the Bay. We believe that every small business should have a website as they play a vital role in reaching larger audiences.
+        </div>
+
+        <div class="container content grid one-one">
+            <div>
+                <h3>
+                    We handle the geeky bits
+                    <i class="fas fa-tools"></i>
+                </h3>
+                When it comes to making websites and mobile apps, we're the go-to guys. We make the entire process easy to understand and explain everything without the geek speak.
+            </div>
+            <div>
+                <h3>
+                    Straightforward pricing
+                    <i class="fas fa-coins"></i>
+                </h3>
+                No one likes surprises when they're checking their bills. We use straightforward pricing so you know how much the project will cost before we start anything.
+            </div>
+        </div>
+
+        <div class="container content">
+            <blockquote>
+                These boys really helped me out. They answered all of my questions, even the ones I didn't know I needed to ask. The whole procedure was simple and faster. I highly recommend!
+            </blockquote>
+            <span class="small-text right">
+                Someone, Company    
+            </span>
+        </div>
+        
+        <?php include('partials/footer.php'); ?>
+        <?php include('partials/extra.php'); ?>
+
+        <script src="js/slider.js"></script>
+    </body>
+</html>

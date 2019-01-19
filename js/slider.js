@@ -10,7 +10,7 @@ var slides = [
     },
     {
         'lead': 'CMS integration',
-        'sub': 'Use the CMS that you\'re comfortable with (Wordpress, Sporty, Drupal).'
+        'sub': 'Use the CMS that you\'re comfortable with (Wordpress, Sporty, and more).'
     }
 ];
 
