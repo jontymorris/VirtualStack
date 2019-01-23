@@ -10,6 +10,9 @@
             <a href="./">
                 <li>Home</li>
             </a>
+            <a href="./services.php">
+                <li>What we do</li>
+            </a>
             <a href="./portfolio.php">
                 <li>Portfolio</li>
             </a>

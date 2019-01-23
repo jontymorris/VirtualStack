@@ -31,10 +31,11 @@
 .one-one-one {
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 50px;
+    grid-row-gap: 40px;
 
     @media screen and (max-width: $breakpoint-large) {
         grid-template-columns: 1fr;
-        grid-row-gap: 70px;
+        grid-row-gap: 50px;
         grid-column-gap: 0px;
     }
 }

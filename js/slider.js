@@ -5,13 +5,21 @@ var slides = [
         'sub': 'We offer the entire web development suite, from designing to hosting your site.'
     },
     {
-        'lead': 'Mobile apps',
-        'sub': 'Mobile solutions help give your business an edge over the competition.'
+        'lead': 'Website maintenance',
+        'sub': 'Have an old website? We can maintain it with updates and keep it looking fresh.'
     },
     {
         'lead': 'CMS integration',
         'sub': 'Use the CMS that you\'re comfortable with (Wordpress, Sporty, and more).'
-    }
+    },
+    {
+        'lead': 'Website hosting',
+        'sub': 'Let use take care of all the hassle involved with hosting your website.'
+    },
+    {
+        'lead': 'Mobile apps',
+        'sub': 'Mobile solutions help give your business an edge over the competition.'
+    },
 ];
 
 function nextSlide() {
