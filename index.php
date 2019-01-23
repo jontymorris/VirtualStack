@@ -4,7 +4,7 @@
 <html>
     <head>
         <title>
-            <?php echo $TITLE; ?> - web design and development
+            <?php echo $TITLE; ?> | Web design and development
         </title>
 
         <?php include('partials/head.php'); ?>
@@ -15,7 +15,7 @@
 
         <!-- Content -->
         <div class="container content">
-            We're a small team of talented people who are passionate about what we do. VirtualStack's goal is to make technology easy and accessible to local businesses throughout the Bay. We believe that every small business should have a website as they play a vital role in reaching larger audiences.
+            We're a small team of talented people who are passionate about what we do. VirtualStack's goal is to make technology easy and accessible to local businesses throughout The Bay. We believe that every small business should have a website as they play a vital role in reaching larger audiences.
         </div>
 
         <div class="container content grid one-one">
@@ -36,8 +36,9 @@
         </div>
 
         <div class="container content">
+            <h3>What our clients say</h3>
             <blockquote>
-                The VirtualStack team made the daunting task of getting a website seem quick and easy. Jonty answered all of my questions and even brought up topics I hadn't thought about. Would highly recommend!
+            Getting a website seemed so overwhelming. When I finally took action and approached the VirtualStack team, I was gladly suprised by how quick and easy the process felt. Jonty answered all my questions and more. Would highly recommend!
             </blockquote>
             <span class="small-text right">
                 Glenn Morris, Backridge Butcher

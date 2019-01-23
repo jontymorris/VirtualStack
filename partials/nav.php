@@ -16,9 +16,6 @@
             <a href="./portfolio.php">
                 <li>Portfolio</li>
             </a>
-            <a href="./">
-                <li>Our team</li>
-            </a>
         </ul>
     </div>
 </div>

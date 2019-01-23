@@ -4,7 +4,7 @@
 <html>
     <head>
         <title>
-            <?php echo $TITLE; ?> - what we do
+            <?php echo $TITLE; ?> | Our services
         </title>
 
         <?php include('partials/head.php'); ?>
@@ -15,7 +15,7 @@
         <!-- Content -->
         <div class="container content">
             <h2>What we do</h2>
-            The VirtualStack team has a wide range of expertise. Our goal is to empower local businesses with moden technology.
+            The VirtualStack team has a wide range of expertise. Our goal is to help local businesses succeed by empowering them with moden technology.
         </div>
 
         <div class="container content grid one-one-one">
@@ -42,15 +42,9 @@
                 <h3>Mobile apps <i class="fas fa-mobile-alt"></i></h3>
                 Mobile apps are powering more businesses everyday. Do you need an affordable mobile app that will take your business into the future?
             </div>
-            
-            <div class="service">
-                <h3>Desktop software <i class="fas fa-desktop"></i></h3>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut erat ex. Fusce at quam erat. Morbi consectetur ipsum fringilla vestibulum euismod.
-            </div>
         </div>
         
         <?php include('partials/footer.php'); ?>
         <?php include('partials/extra.php'); ?>
-
     </body>
 </html>
