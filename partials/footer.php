@@ -5,7 +5,7 @@
         </div>
         <div class="right">
             <section>
-                <a href="https://facebook.com/example" target="_blank">
+                <a href="https://www.facebook.com/virtualstack/" target="_blank">
                     <img src="images/facebook.svg" width="200px">
                 </a>
             </section>
