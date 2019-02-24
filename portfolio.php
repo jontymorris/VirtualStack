@@ -6,6 +6,8 @@
         <title>
             <?php echo $TITLE; ?> | Portfolio
         </title>
+        
+        <meta name="description" content="Want to know what we've been up to? Our previous work speaks for itself. We also do free, no obligation quotes.">
 
         <?php include('partials/head.php'); ?>
     </head>
