@@ -6,7 +6,9 @@
         <title>
             <?php echo $TITLE; ?> | Our services
         </title>
-
+        
+        <meta name="description" content="We provide a range of services from developing websites and mobile apps, to site maintenance and web hosting.">
+        
         <?php include('partials/head.php'); ?>
     </head>
     <body>
