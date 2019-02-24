@@ -7,7 +7,7 @@
             <?php echo $TITLE; ?> | Web design and development
         </title>
         
-       <meta name="description" content="We're a small team that is passionate about making websites and mobile apps. We make the process easy and explain everything without the geek speak.">
+        <meta name="description" content="We're a small team that is passionate about making websites and mobile apps. We make the process easy and explain everything without the geek speak.">
 
         <?php include('partials/head.php'); ?>
     </head>
