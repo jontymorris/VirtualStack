@@ -26,15 +26,17 @@
                 </a>
             </div>
 
+            <!--
             <div class="portfolio">
                 <a href="https://puketapu-international.com/" target="_blank">
                     <img src="images/portfolio/puketapu.jpg">
                     Puketapu International
                 </a>
             </div>
+            -->
 
             <div class="portfolio">
-                <a href="http://test.modernyoganapier.co.nz/" target="_blank">
+                <a href="http://modernyoganapier.co.nz/" target="_blank">
                     <img src="images/portfolio/yoga.jpg">
                     Modern Yoga Napier
                 </a>
@@ -47,12 +49,14 @@
                 </a>
             </div>
 
+            <!--
             <div class="portfolio">
                 <a href="http://dreamlifeauthor.com/" target="_blank">
                     <img src="images/portfolio/dream.jpg">
                     Dream Life Author
                 </a>
             </div>
+            -->
 
             <div class="portfolio">
                 <a href="https://play.google.com/store/apps/details?id=me.morris.grossprofitcalculator" target="_blank">
