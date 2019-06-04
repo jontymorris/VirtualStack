@@ -15,7 +15,7 @@
         <!-- Content -->
         <div class="container content">
             <h2>What we've done</h2>
-            We let our previous work speak for us.
+            Your project could be here too!
         </div>
 
         <div class="container content grid one-one-one">
