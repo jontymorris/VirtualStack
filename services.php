@@ -17,7 +17,7 @@
         <!-- Content -->
         <div class="container content">
             <h2>What we do</h2>
-            The VirtualStack team has a wide range of expertise. Our goal is to help local businesses succeed by empowering them with moden technology.
+            Our goal is to help local businesses succeed by empowering them with moden technology.
         </div>
 
         <div class="container content grid one-one-one">
@@ -30,10 +30,11 @@
                 <h3>Web hosting <i class="fas fa-server"></i></h3>
                 Hosting your website can be a tricky task and isn’t everyones cup of tea. We can take care of the geeky details and host your website for you.
             </div>
-            
+
             <div class="service">
                 <h3>CMS integration <i class="fas fa-edit"></i></h3>
-                Everyone wants to edit their website. We can integrate your website with a well known content managment system such as Wordpress or Sporty to make editing a breeze.            </div>
+                Want to edit your own website? We can integrate your website with a well known content managment system such as Wordpress or Sporty to make editing a breeze.
+            </div>
 
             <div class="service">
                 <h3>Website maintenance <i class="fas fa-tools"></i></h3>
