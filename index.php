@@ -40,10 +40,10 @@
         <div class="container content">
             <h3>What our clients say</h3>
             <blockquote>
-            Getting a website seemed so overwhelming. When I finally took action and approached the VirtualStack team, I was gladly suprised by how quick and easy the process felt. Jonty answered all my questions and more. Would highly recommend!
+                I get so much business through my website thanks to the VirtualStack team. Jonty answered all my questions and made the whole process easy to understand. Would highly recommend them!
             </blockquote>
             <span class="small-text right">
-                Glenn Morris, Backridge Butcher
+                Glenn, Backridge Butcher
             </span>
         </div>
         
